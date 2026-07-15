@@ -31,10 +31,10 @@ In addition, every prediction made by the application is stored in a CSV file fo
 - CSS
 ---
 
+
 ## 📂 Project Structure
 
----
-
+```
 Student-Mark-Predictor/
 │
 ├── app1.py
