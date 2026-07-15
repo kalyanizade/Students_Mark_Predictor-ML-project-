@@ -30,8 +30,10 @@ In addition, every prediction made by the application is stored in a CSV file fo
 - HTML
 - CSS
 ---
+
 ## 📂 Project Structure
 
+---
 
 Student-Mark-Predictor/
 │
