@@ -30,11 +30,56 @@ In addition, every prediction made by the application is stored in a CSV file fo
 - HTML
 - CSS
 ---
+---
 
+## 📊 How It Works
+
+1. User enters the number of study hours.
+2. Flask receives the input.
+3. The trained Machine Learning model predicts the marks.
+4. The predicted marks are displayed on the webpage.
+5. The prediction is saved to a CSV file.
+
+---
+
+## 🎯 Example
+
+**Input**
+
+```
+Study Hours: 6
+```
+
+**Output**
+
+```
+Predicted Marks: 78.45%
+```
+
+*Note: The prediction may vary depending on the trained model.*
+
+---
+
+## 📦 Requirements
+
+Install all required packages using:
+
+```bash
+pip install -r requirements.txt
+```
+
+Required Libraries:
+
+- Flask
+- NumPy
+- Pandas
+- Scikit-learn
+- Joblib
+
+---
 
 ## 📂 Project Structure
 
-```
 Student-Mark-Predictor/
 │
 ├── app1.py
@@ -48,4 +93,30 @@ Student-Mark-Predictor/
 │   └── style.css
 └── README.md
 
+---
 
+## 📚 Learning Outcomes
+
+This project demonstrates:
+
+- Machine Learning Model Deployment
+- Flask Web Development
+- Regression Prediction
+- Model Serialization using Joblib
+- Form Handling in Flask
+- Input Validation
+- CSV File Handling
+
+---
+
+## 👨‍💻 Author
+
+**Kalyani Zade**
+
+Python | Data Analyst | Machine Learning Enthusiast
+
+---
+
+## ⭐ Support
+
+If you found this project useful, don't forget to **Star ⭐ this repository** on GitHub!
