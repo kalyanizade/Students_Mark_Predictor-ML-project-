@@ -77,9 +77,11 @@ Required Libraries:
 - Joblib
 
 ---
+---
 
 ## 📂 Project Structure
 
+```
 Student-Mark-Predictor/
 │
 ├── app1.py
@@ -92,7 +94,7 @@ Student-Mark-Predictor/
 ├── static/
 │   └── style.css
 └── README.md
-
+```
 ---
 
 ## 📚 Learning Outcomes
