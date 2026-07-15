@@ -48,5 +48,4 @@ Student-Mark-Predictor/
 │   └── style.css
 └── README.md
 
----
-get to **Star ⭐ this repository** on GitHub!
+
