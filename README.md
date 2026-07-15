@@ -34,6 +34,7 @@ In addition, every prediction made by the application is stored in a CSV file fo
 
 ## 📂 Project Structure
 
+
 ```
 Student-Mark-Predictor/
 │
@@ -50,6 +51,7 @@ Student-Mark-Predictor/
 
 ---
 
+---
 ## 📊 How It Works
 
 1. User enters the number of study hours.
