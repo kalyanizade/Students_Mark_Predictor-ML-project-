@@ -29,13 +29,10 @@ In addition, every prediction made by the application is stored in a CSV file fo
 - Joblib
 - HTML
 - CSS
-
 ---
-
 ## 📂 Project Structure
 
 
-```
 Student-Mark-Predictor/
 │
 ├── app1.py
@@ -51,7 +48,6 @@ Student-Mark-Predictor/
 
 ---
 
----
 ## 📊 How It Works
 
 1. User enters the number of study hours.
